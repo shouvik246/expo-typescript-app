@@ -1,0 +1,25 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_type": "radio",
+      "question_title": "Do you love gardening ?",
+      "question_options": ["yes", "no"],
+      "answer": ""
+    },
+    {
+      "id": 2,
+      "question_type": "radio",
+      "question_title": "How many plants do you have ?",
+      "question_options": ["0-10", "10-20", "More than 20"],
+      "answer": ""
+    },
+    {
+      "id": 3,
+      "question_type": "radio",
+      "question_title": "Do you go out usually and on one is there to water your Plants ?",
+      "question_options": ["Yes", "No"],
+      "answer": ""
+    }
+  ]
+}
